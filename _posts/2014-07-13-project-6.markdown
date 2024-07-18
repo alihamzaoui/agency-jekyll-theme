@@ -3,12 +3,12 @@ title: iPhone 15 Pro Max
 subtitle: 6.7-inch Super Retina XDR display
 layout: default
 modal-id: 1
-date: 2024-07-18
+Realease date: 2024-07-18
 img: product1.png
 thumbnail: product1-thumbnail.png
 alt: A powerful and versatile device, suitable for users who want the best in technology
 project-date: July 2024
-client: My Company
+Brand: My Company
 category: Electronics
 description: It is powered by the A17 Pro chipset, providing performance on par with high-end PCs, especially beneficial for mobile gaming and multitasking.
 ---
