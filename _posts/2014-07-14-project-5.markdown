@@ -3,12 +3,12 @@ title: Samsung Galaxy S24 Ultra
 subtitle: 6.8-inch QHD+ Dynamic AMOLED 2X display
 layout: default
 modal-id: 1
-date: 2024-07-18
+Release date: 2024
 img: product1.png
 thumbnail: product1-thumbnail.png
 alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
 project-date: July 2024
-client: My Company
+Brand: Samsung
 category: Electronics
 description: The Samsung Galaxy S24 Ultra stands out for its advanced camera technology, high-performance capabilities, and premium design, making it a top choice for those seeking a high-end smartphone​.
 ---
