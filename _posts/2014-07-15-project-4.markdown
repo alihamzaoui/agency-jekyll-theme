@@ -1,14 +1,14 @@
 ---
-title: Samsung Galaxy Z Fold5
-subtitle: 6.2-inch AMOLED, 2316 x 904 pixels display
+title: Samsung Galaxy S24 Ultra
+subtitle: 6.8-inch QHD+ Dynamic AMOLED 2X display
 layout: default
 modal-id: 1
 Release date: 2024
 img: product1.png
 thumbnail: product1-thumbnail.png
-alt: Runs on Samsung’s One UI 6, based on Android 13
+alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
 project-date: July 2024
 Brand: Samsung
 category: Electronics
-description: The Galaxy Z Fold5 combines cutting-edge technology with a sleek, foldable design, making it a standout choice for those looking for a premium and versatile smartphone experience.
+description: The Samsung Galaxy S24 Ultra stands out for its advanced camera technology, high-performance capabilities, and premium design, making it a top choice for those seeking a high-end smartphone​.
 ---
