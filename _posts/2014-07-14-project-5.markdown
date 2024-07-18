@@ -10,5 +10,30 @@ alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
 project-date: July 2024
 Brand: Samsung
 category: Electronics
-description: The Samsung Galaxy S24 Ultra stands out for its advanced camera technology, high-performance capabilities, and premium design, making it a top choice for those seeking a high-end smartphone​.
+description: 
+Key Features of the Samsung Galaxy Z Fold5:
+1. Display:
+Internal Display: 7.6-inch AMOLED, 2176 x 1812 pixels, dynamic refresh rate (1-120Hz).
+External Display: 6.2-inch AMOLED, 2316 x 904 pixels, dynamic refresh rate (48-120Hz).
+Brightness: Maximum brightness of 1100 nits, ensuring clear visibility even in bright conditions​ (PhoneArena)​​ (Pocket Tactics)​.
+2. Performance:
+Processor: Qualcomm Snapdragon 8 Gen 2.
+RAM: 12GB.
+Storage Options:  1TB.
+Operating System: Runs on Samsung’s One UI 6, based on Android 13​.
+3. Camera:
+Rear Cameras: 50MP main sensor, 10MP telephoto with 3x optical zoom, and 12MP ultra-wide.
+Front Cameras: 10MP cover camera and 4MP under-display camera.
+Camera Features: Improved night photography ("Nightography"), 8K video recording, and Flex mode for stable video capture without a tripod​.
+4. Battery:
+Capacity: 4400mAh, offering full-day usage with optimized power management.
+Charging: Supports 25W fast charging​.
+5. Design and Build:
+Materials: Gorilla Glass Victus 2 on the front and back, aluminum frame.
+Durability: IPX8 water resistance (up to 1.5 meters for 30 minutes), but no dust resistance.
+Hinge: Improved Flex hinge for a smoother folding experience and reduced thickness​.
+6. Additional Features:
+S Pen Support: Compatible with the S Pen Fold Edition, which can be stored in an optional case.
+Fingerprint Scanner: Side-mounted, integrated into the power button.
+Color Options: Phantom Black.
 ---
