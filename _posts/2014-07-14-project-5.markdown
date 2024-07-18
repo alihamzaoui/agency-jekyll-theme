@@ -6,9 +6,9 @@ modal-id: 1
 date: 2024-07-18
 img: product1.png
 thumbnail: product1-thumbnail.png
-alt: Best Gadget
+alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
 project-date: July 2024
 client: My Company
 category: Electronics
-description: This is the best gadget you can find in the market. It has cutting-edge technology and features that make it a must-have.
+description: The Samsung Galaxy S24 Ultra stands out for its advanced camera technology, high-performance capabilities, and premium design, making it a top choice for those seeking a high-end smartphone​.
 ---
