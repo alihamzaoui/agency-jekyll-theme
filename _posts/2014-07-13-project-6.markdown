@@ -1,14 +1,17 @@
 ---
-title: "The Latest and Most Expensive iPhone Release"
-subtitle: "iPhone 15 Pro Max"
+title: Round Icons
+subtitle: Graphic Design
 layout: default
 modal-id: 6
-date: "2024-07-18"
+date: 2014-07-15
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: "July 2024"
-client: "Apple"
-category: "Technology"
-description: It has a 6.7-inch Super Retina XDR display with ProMotion technology, which offers a smooth and responsive experience. It is powered by the A17 Pro chipset, providing performance on par with high-end PCs, especially beneficial for mobile gaming and multitasking.
+project-date: April 2014
+client: Start Bootstrap
+category: Web Development
+description: Display: It has a 6.7-inch Super Retina XDR display with ProMotion technology, which offers a smooth and responsive experience.
+Camera: The iPhone 15 Pro Max features a 48MP main camera, a 12MP ultra-wide camera, and a new 5x optical zoom periscope lens, making it a top choice for photography enthusiasts.
+Performance: It is powered by the A17 Pro chipset, providing performance on par with high-end PCs, especially beneficial for mobile gaming and multitasking.
+
 ---
