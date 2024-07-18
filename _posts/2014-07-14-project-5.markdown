@@ -1,6 +1,6 @@
 ---
-title: Product 1
-subtitle: Best Gadget
+title: Samsung Galaxy S24 Ultra
+subtitle: 6.8-inch QHD+ Dynamic AMOLED 2X display
 layout: default
 modal-id: 1
 date: 2024-07-18
