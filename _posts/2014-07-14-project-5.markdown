@@ -4,8 +4,8 @@ subtitle: 6.8-inch QHD+ Dynamic AMOLED 2X display
 layout: default
 modal-id: 1
 Release date: 2024
-img: product1.png
-thumbnail: product1-thumbnail.png
+img: Samsung-Galaxy-S24-Ultra.png
+thumbnail: Samsung-Galaxy-S24-Ultra.png
 alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
 project-date: July 2024
 Brand: Samsung
