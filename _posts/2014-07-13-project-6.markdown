@@ -1,16 +1,18 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
-layout: default
-modal-id: 6
-date: 2014-07-15
-img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: July 2024
-client: Start Bootstrap
-category: Web Development
-description: Display: It has a 6.7-inch Super Retina XDR display with ProMotion technology, which offers a smooth and responsive experience.
+title: "The Latest and Most Expensive iPhone Release"
+subtitle: "iPhone 15 Pro Max"
+layout: "default"
+modal-id: "6"
+date: "2024-07-18"
+img: "iphone15promax.png"
+thumbnail: "iphone15promax-thumbnail.png"
+alt: "iPhone 15 Pro Max"
+project-date: "July 2024"
+client: "Apple"
+category: "Technology"
+description: "The latest and most expensive iPhone release is the iPhone 15 Pro Max. Here are some of its standout features:
+
+Display: It has a 6.7-inch Super Retina XDR display with ProMotion technology, which offers a smooth and responsive experience.
 
 Camera: The iPhone 15 Pro Max features a 48MP main camera, a 12MP ultra-wide camera, and a new 5x optical zoom periscope lens, making it a top choice for photography enthusiasts.
 
@@ -22,4 +24,5 @@ Connectivity: The device now includes a USB-C port, which offers faster data tra
 
 Price: Given its advanced features, the iPhone 15 Pro Max is priced at a premium, reflecting its status as Apple's flagship model.
 
+These features make the iPhone 15 Pro Max a powerful and versatile device, suitable for users who want the best in technology and are willing to pay a higher price for it."
 ---
