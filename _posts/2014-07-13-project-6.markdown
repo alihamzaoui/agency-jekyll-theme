@@ -1,14 +1,14 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: "The Latest and Most Expensive iPhone Release"
+subtitle: "iPhone 15 Pro Max"
 layout: default
 modal-id: 6
-date: 2014-07-15
+date: "2024-07-18"
 img: roundicons.png
 thumbnail: roundicons-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: "July 2024"
+client: "Apple"
+category: "Technology"
+description: It has a 6.7-inch Super Retina XDR display with ProMotion technology, which offers a smooth and responsive experience. It is powered by the A17 Pro chipset, providing performance on par with high-end PCs, especially beneficial for mobile gaming and multitasking.
 ---
