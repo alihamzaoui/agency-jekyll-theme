@@ -3,11 +3,11 @@ title: Samsung Galaxy S23 Ultra
 subtitle: 6.8-inch Dynamic AMOLED 2X display with a resolution of 1440 x 3200 pixels.
 layout: default
 modal-id: 1
-Release date: 2024
+Release date: 2023
 img: GalaxyS23Ultra.png
 thumbnail: GalaxyS23Ultra.png
 alt: Powered by the latest Qualcomm Snapdragon 8 Gen 2 chipset, the Galaxy S23 Ultra offers top-notch performance for gaming, multitasking, and productivity.
-project-date:  2024
+project-date:  2023
 Brand: Samsung
 category: Electronics
 description: The Samsung Galaxy S23 Ultra showcases a 6.8-inch Dynamic AMOLED 2X display with a resolution of 1440 x 3200 pixels and HDR10+ support, powered by the Qualcomm Snapdragon 8 Gen 2 chipset. It features up to 12GB of RAM and storage options ranging from 256GB to 1TB. The device includes a quad-camera setup with a 200 MP primary sensor, 12 MP ultra-wide lens, and dual 10 MP telephoto lenses. It supports 5G connectivity, houses a 5000 mAh battery with 45W fast charging, and runs on Android 13 with Samsung's One UI 5.1.
