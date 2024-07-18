@@ -1,14 +1,14 @@
 ---
-title: Samsung Galaxy S24 Ultra
-subtitle: 6.8-inch QHD+ Dynamic AMOLED 2X display
+title: Samsung Galaxy S23 Ultra
+subtitle: 6.8-inch Dynamic AMOLED 2X display with a resolution of 1440 x 3200 pixels.
 layout: default
 modal-id: 1
 Release date: 2024
-img: product1.png
-thumbnail: product1-thumbnail.png
-alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
-project-date: July 2024
+img: GalaxyS23Ultra.png
+thumbnail: GalaxyS23Ultra.png
+alt: Powered by the latest Qualcomm Snapdragon 8 Gen 2 chipset, the Galaxy S23 Ultra offers top-notch performance for gaming, multitasking, and productivity.
+project-date:  2024
 Brand: Samsung
 category: Electronics
-description: The Samsung Galaxy S24 Ultra stands out for its advanced camera technology, high-performance capabilities, and premium design, making it a top choice for those seeking a high-end smartphone​.
+description: Camera System Main Camera: The phone features a quad-camera setup with a 200 MP primary sensor, a 12 MP ultra-wide sensor, and two 10 MP telephoto sensors (one with 10x optical zoom and the other with 3x optical zoom). Selfie Camera: The front-facing camera is 12 MP, capable of capturing high-quality selfies and 4K video recording. Battery and Charging Battery: Equipped with a 5000 mAh battery, the Galaxy S23 Ultra supports 45W fast charging, 15W wireless charging, and 4.5W reverse wireless charging. Battery Life: The large battery combined with efficient power management offers extended usage times, even with heavy use. Software and Features Operating System: It runs on Android 13 with Samsung's One UI 5.1, providing a smooth and customizable user experience. Additional Features: The phone includes an in-display fingerprint sensor, stereo speakers, Samsung DeX support, and S Pen integration for enhanced productivity. Connectivity 5G Support: The Galaxy S23 Ultra supports both sub-6 and mmWave 5G, ensuring fast and reliable connectivity. Wi-Fi and Bluetooth: It features Wi-Fi 6E and Bluetooth 5.3 for fast wireless connectivity and reliable device pairing.
 ---
