@@ -5,7 +5,7 @@ layout: default
 modal-id: 1
 Realease date: 2024
 img: product1.png
-thumbnail: product1-thumbnail.png
+thumbnail: dreams-thumbnail.png
 alt: A powerful and versatile device, suitable for users who want the best in technology
 project-date: July 2024
 Brand: Apple
