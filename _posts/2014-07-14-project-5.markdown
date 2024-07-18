@@ -7,7 +7,7 @@ Release date: 2024
 img: Samsung-Galaxy-S24-Ultra.png
 thumbnail: Samsung-Galaxy-S24-Ultra.png
 alt: Powered by the Qualcomm Snapdragon 8 Gen 3 processor
-project-date: July 2024
+project-date:  2024
 Brand: Samsung
 category: Electronics
 description: 
